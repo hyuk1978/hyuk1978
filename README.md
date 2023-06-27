@@ -1,4 +1,4 @@
-### 유혁입니다~ 반가워요 👋
+### 유혁입니다~ 👋
 
 <!--
 **hyuk1978/hyuk1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
