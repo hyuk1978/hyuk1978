@@ -1,5 +1,5 @@
 ### 신입 프론트엔드 개발자 유혁입니다~ 👋
-
+<h2>노원 이젠아카데미 풀스택 과정 수료(22.12 ~ 23.07)</h2>
 <!--
 **hyuk1978/hyuk1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
